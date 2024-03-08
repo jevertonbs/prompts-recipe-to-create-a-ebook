@@ -41,12 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 5 sugestões criativas para o título do ebook com o tema star wars|
-| conteúdo | Faça um texto para ebook, com foco em forecast, liste os principais modelos de aprendizagem utilizados para realizar forecast e suas melhores práticas.
-Regras:
-Explique sempre de uma maneira muito simples;
-Utilize textos curtos;
-Sempre traga exemplos de casos de uso real;
-Sempre deixe um título sugestivo por tópico. |
+| conteúdo | Faça um texto para ebook, com foco em forecast, liste os principais modelos de aprendizagem utilizados para realizar forecast e suas melhores práticas. Regras: Explique sempre de uma maneira muito simples; Utilize textos curtos; Sempre traga exemplos de casos de uso real; Sempre deixe um título sugestivo por tópico. |
 
 
 Midjourney：
