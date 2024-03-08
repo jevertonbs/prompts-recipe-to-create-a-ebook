@@ -79,8 +79,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
 everton-barreto">LinkedIn</a>
-&nbsp;|&nbsp;
-&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
