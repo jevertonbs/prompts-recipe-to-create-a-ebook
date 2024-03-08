@@ -75,10 +75,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspEverton Barreto<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/jevertonbs">
-    GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-everton-barreto">LinkedIn</a>
+everton-barreto">
+    LinkedIn</a>&nbsp;
 </p>
 <br/><br/>
 <p>
